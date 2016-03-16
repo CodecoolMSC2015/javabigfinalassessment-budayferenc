@@ -1,3 +1,5 @@
+# Codecool Miskolc 2015 - Buday Ferenc
+
 # Businness Story
 We're looking for great people to help deliver major projects for our customer. We are recruiting man power as we are the Human Resource department. We would like to use our notebook to search for a skilled person for a position in everywhere we want to complete it.
 We would like to search by giving skills and restrict the partial or fulfillment is required. It means all skills are required or at least one. We have employees and outsider contacts for persons persisted in our site specific store. Mainly we use csv files now.
