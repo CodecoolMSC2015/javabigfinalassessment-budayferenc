@@ -22,8 +22,8 @@ public class Employee extends Person {
 
 	@Override
 	public String toString() {
-		return "Employee [salary=" + salary + ", jobTitle=" + jobTitle + ", getName()=" + getName() + ", getEmail()="
-				+ getEmail() + "]";
+		return "Employee name: " + getName() + "\n Employee email: " + getEmail() + "\n Employee salary: " + salary
+				+ "\n Employee jobTitle: " + jobTitle + "\n ";
 	}
 
 }

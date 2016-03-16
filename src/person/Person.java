@@ -6,7 +6,6 @@ public class Person {
 	String name;
 	String email;
 	List<Skill> skillset;
-	private List<Skill> skillSet;
 
 	public Person(String name, String email) {
 		super();
@@ -38,11 +37,11 @@ public class Person {
 		return skillset;
 	}
 
-	public void setSkillSet(List<Skill> skillSet) {
-		this.skillSet = skillSet;
+	public void setSkillSet(List<Skill> skillset) {
+		this.skillset = skillset;
 	}
 
-	// public void addSkill(Skill){
-	//
-	// }
+	public void addSkill() {
+
+	}
 }
